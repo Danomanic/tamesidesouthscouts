@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700,800,900');
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  background-color: #ffffff;
+}
+
+main {
+  margin-bottom: 4em;
+}
+
+a {
+  color: #7413dc;
+}
+
+.bg-purple {
+  background-color: #7413dc;
+  border-color: #4f0d96;
+}
+
+.bg-grey {
+  background-color: #f7f7f7;
+}
+
+.jumbotron {
+  color: #7413dc;
+  background-color: #ffffff;
+  border: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 900;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 1.1rem;
+  font-weight: 900;
+}
+
+.btn-primary  {
+  background-color: #7413dc;
+  border-color: #4f0d96;
+}
+
+.btn-primary:hover {
+  background-color: #00a794;
+  border-color: #005b50;
+}
+
+.sections ul {
+  padding: 0px 2px;
+  list-style: none;
+}
+
+.sections h2 {
+  color: #000000;
+}
+
+.sections a {
+  font-size: 1.1rem;
+  font-weight: 900;
+}
+
+.sections .what {
+  padding: 0px 2em;
+  border-left: 3px solid #00a794;
+}
+
+.sections .what a {
+  color: #00a794;
+}
+
+.sections .join {
+  padding: 0px 2em;
+  border-left: 3px solid #006ddf;
+}
+
+.sections .join a {
+  color: #006ddf;
+}
+
+.sections .volunteer {
+  padding: 0px 2em;
+  border-left: 3px solid #7413dc;
+}
+
+.sections .volunteer a {
+  color: #7413dc;
+}
+
+.sections .links {
+
+}
+
+.links h2 {
+  color: #ffffff;
+}
+
+.links a {
+  font-size: 1.1rem;
+  font-weight: 900;
+  color: #ffffff;
+}
+
+.links ul {
+  padding: 0px 2px;
+  list-style: none;
+  align: left;
+}
+
+.links .resources {
+  padding: 0px 2em;
+  border-left: 3px solid #ffffff;
+}
+
+.links .forms {
+  padding: 0px 2em;
+  border-left: 3px solid #ffffff;
+}
