@@ -130,6 +130,11 @@ a {
   border-left: 3px solid #ffffff;
 }
 
+.find-a-group .grouplist {
+  padding: 0px 2em;
+  border-left: 3px solid #7413dc;
+}
+
 .find-a-group ul {
   padding: 0px 2px;
   list-style: none;
