@@ -21,6 +21,10 @@ h2 {
   margin-bottom: 1em;
 }
 
+footer {
+  margin-bottom: 3em;
+}
+
 .beavers {
   color: #006ddf;
 }
@@ -48,6 +52,10 @@ h2 {
 
 .bg-blue {
   background-color: #006ddf;
+}
+
+.bg-green {
+  background-color: #00a794;
 }
 
 .jumbotron {
@@ -221,6 +229,37 @@ h2 {
 }
 
 .training .content h2 {
+  margin-bottom: 1em;
+  color: #ffffff;
+}
+
+.events .content {
+  padding: 0px 2em;
+  border-left: 3px solid #00a794;
+}
+
+.events .content h2 {
+  margin-bottom: 1em;
+  color: #00a794;
+}
+
+.district-team .content {
+  padding: 0px 2em;
+  border-left: 3px solid #00a794;
+}
+
+.district-team .content h2 {
+  margin-bottom: 1em;
+  color: #00a794;
+}
+
+.news .content {
+  padding: 0px 2em;
+  border-left: 3px solid #ffffff;
+  color: #ffffff;
+}
+
+.news .content h2 {
   margin-bottom: 1em;
   color: #ffffff;
 }
