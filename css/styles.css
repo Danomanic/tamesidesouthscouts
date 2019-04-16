@@ -17,6 +17,22 @@ a {
   color: #7413dc;
 }
 
+.beavers {
+  color: #006ddf;
+}
+
+.cubs {
+  color: #23a950;
+}
+
+.scouts {
+  color: #7413dc;
+}
+
+.explorers {
+  color: #003982;
+}
+
 .bg-purple {
   background-color: #7413dc;
   border-color: #4f0d96;
@@ -132,11 +148,33 @@ a {
 
 .find-a-group .grouplist {
   padding: 0px 2em;
-  border-left: 3px solid #7413dc;
+  border-left: 3px solid #006ddf;
 }
 
 .find-a-group ul {
   padding: 0px 2px;
   list-style: none;
   align: left;
+}
+
+.what-is-scouting .content {
+  padding: 0px 2em;
+  border-left: 3px solid #006ddf;
+}
+
+.what-is-scouting .content h2 {
+  color: #006ddf;
+}
+
+.uniform .content {
+  padding: 0px 2em;
+  border-left: 3px solid #ffffff;
+}
+
+.uniform .content h2 {
+  color: #ffffff;
+}
+
+.uniform .content .card-body {
+  font-size: 1.5rem;
 }
