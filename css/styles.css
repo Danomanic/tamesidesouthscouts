@@ -195,3 +195,32 @@ h2 {
 .uniform .content .card-body {
   font-size: 1.5rem;
 }
+
+.become-a-volunteer .content {
+  padding: 0px 2em;
+  border-left: 3px solid #7413dc;
+}
+
+.become-a-volunteer .content h2 {
+  color: #7413dc;
+}
+
+.benefits .content {
+  padding: 0px 2em;
+  border-left: 3px solid #7413dc;
+}
+
+.benefits .content h2 {
+  color: #7413dc;
+}
+
+.training .content {
+  padding: 0px 2em;
+  border-left: 3px solid #ffffff;
+  color: #ffffff;
+}
+
+.training .content h2 {
+  margin-bottom: 1em;
+  color: #ffffff;
+}
